@@ -1,6 +1,6 @@
-# AI-Learning3: Resume Q&A Assistant with RAG and Azure AI
+# AI-Learning3: Q&A Assistant with RAG and Azure AI
 
-This project demonstrates a Retrieval-Augmented Generation (RAG) pipeline using LangChain, Hugging Face embeddings, ChromaDB, and Azure OpenAI. It allows users to ask natural language questions about a resume PDF, and receive answers based on its content.
+This project demonstrates a Retrieval-Augmented Generation (RAG) pipeline using LangChain, Hugging Face embeddings, ChromaDB, and Azure OpenAI. It allows users to ask natural language questions about a PDF documentation, and receive answers based on its content.
 
 ---
 
