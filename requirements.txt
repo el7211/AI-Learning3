@@ -1,0 +1,12 @@
+smolagents
+dotenv~=0.9.9
+smolagents[openai]
+pypdf
+langchain~=0.3.26
+supabase~=2.15.3
+langchain-community~=0.3.26
+chromadb
+python-dotenv~=1.1.0
+sentence-transformers
+
+huggingface-hub~=0.33.0
